@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "吉川晃司",
+    "imgUrl": https://github.com/radiann/BBEMYBABY/blob/master/KK.PNG",
+    "description": "日本を代表するロックミュージシャン。1988年12月10日、布袋寅泰と『COMPLEX』というユニット結成を発表、ボーカルとして活躍する。その後、第一弾として販売したシングル、「BEMYBABY」は大ヒットとなった。しかし、時を超え2016年、この曲は再びいた大ムーブメントを巻き起こすことになる。"
+  },
+  {
+    "id": 2,
+    "name": "布袋寅泰",
+    "imgUrl": "https://github.com/radiann/BBEMYBABY/blob/master/TH.PNG",
+    "description": "伝説的ロックバンド『BOOWY』のギタリスト。解散後、今後の活動が注目されていたころに吉川晃司と『COMPLEX』を結成、ギタリストとして活動する。"
+  },
+  {
+    "id": 3,
+    "name": "阿部奈々",
+    "imgUrl": "https://github.com/radiann/BBEMYBABY/blob/master/Usamin.png",
+    "description": "アイドルマスターシンデレラガールズ(以下、モバマスと略す)に登場するアイドル、永遠の17歳、ウサミン。ウサミン星から現れた宇宙人。そのキャラクター性からネタにされており、モバマス界のクソコラ四天王の一人。"
+  },
+  {
+    "id": 4,
+    "name": "佐藤心",
+    "imgUrl": "https://github.com/radiann/BBEMYBABY/blob/master/SyugarHeart.PNG",
+    "description": "アイドルマスターシンデレラガールズ(以下、モバマスと略す)に登場するアイドル、ウサミンの構造異性体。ウサミンとの最大の違いは26という年齢を隠さずキャラもそのままというところである。黙っとけ?"
+  },
+  {
+    "id": 5,
+    "name": "市原仁奈",
+    "imgUrl": "https://github.com/radiann/BBEMYBABY/blob/master/NI.PNG",
+    "description": "俺の女になるですよ。"
+  }
+]
